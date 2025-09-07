@@ -1,4 +1,4 @@
-# Notion Public Page Scanner
+# notion_public_page_search
 
 NotionワークスペースにおけるPublicページを検出し、セキュリティリスクを評価するツールです。
 
